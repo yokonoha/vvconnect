@@ -2,7 +2,8 @@
 # ボイボコネクトプラグイン -vvconnect-
 <img src="./vvconect/Resources/icvv.png" style="width:150px;">  
 
-VOICEVOXの音声で実況動画配信ができるようにする代読くん(Rev.3.0以降)向けカスタムモジュール
+VOICEVOXの音声で実況動画配信ができるようにする代読くん(Rev.3.0以降)向けカスタムモジュール  
+(ご利用には事前にVOICEVOXのインストールが必要です。正規配布元様のサイトからダウンロードしてください。)
 
 ![alt text](image.png)  
 
